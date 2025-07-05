@@ -30,7 +30,7 @@ class ValetParkingSystem {
         vehicle.checkInTime = checkInTime;
 
         vehicles.put(vehicleNo, vehicle);
-        System.out.println("Check-in successful.");
+        System.out.println("Check-in successfullyyyyyy.");
     }
 
     public void displayValetParkingList() {
